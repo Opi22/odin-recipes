@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(243, 232, 232, 0.700);
+}
+
+.header {
+    font-size: 40px;
+    color: rgb(37, 37, 255, 0.700);
+    text-align: center;
+}
+
+.h2 {
+    font-size: 30px;
+    color: rgb(37, 37, 255, 0.700);
+
+}
+
+#red {
+    color: rgba(247, 37, 37, 0.700);
+}
+
+#image {
+    width: 1000px;
+    height: auto;
+}
+
+.list {
+    font-family: Verdana;
+    font-weight: bold;
+}
